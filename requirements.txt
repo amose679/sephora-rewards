@@ -1,0 +1,5 @@
+argparse
+psycopg2
+requests
+bs4
+twilio
